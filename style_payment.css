@@ -1,0 +1,37 @@
+body{
+    background-color: #CBF1F5;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.payment-container{
+    color:#CBF1F5;
+    background-color: #323232;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    padding: 70px 100px 100px 100px;
+    width: 20%;
+    box-shadow: 10px 5px 5px grey;
+}
+
+p,h1,h3{
+    color: #E3FDFD;
+}
+
+.btn {
+    background: #4bccbd;
+    background-image: -webkit-linear-gradient(top, #4bccbd, #2fd6ce);
+    background-image: -moz-linear-gradient(top, #4bccbd, #2fd6ce);
+    background-image: -ms-linear-gradient(top, #4bccbd, #2fd6ce);
+    background-image: -o-linear-gradient(top, #4bccbd, #2fd6ce);
+    background-image: linear-gradient(to bottom, #4bccbd, #2fd6ce);
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0px;
+    font-family: Courier New;
+    color: #000000;
+    font-size: 10px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
